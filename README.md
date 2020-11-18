@@ -1,7 +1,7 @@
 # Attorney Online Background Automator
 ###### (Unfinished on few departments, however the code is ready to use. May contain bugs.)
 
-An Attorney Online Background Automator, mostly for Danganronpa Online usage due to the AO2.8 update. Created in Python with PyQt5.
+An Attorney Online Background Automator, mostly for Danganronpa Online usage due to the AO2.8 update. Created in Python with PyQt5 along with QtDesigner.  
 
 Creates a background folder from a single image, automating the entire process of copy, pasting and renaming. 
 
