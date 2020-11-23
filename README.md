@@ -31,3 +31,10 @@ When running the program, you will see a small window pop up. This is the progra
 
 - Clicking on "Directory" and cancelling afterwards will change the directory to your C:// directory.
 
+## License
+
+This program is licensed under the AGPLv3 license. 
+In short, if you use a modified version of this program, you *must* distribute its source licensed under the AGPLv3 as well, and notify your users where the modified source may be found.
+
+See the [LICENSE](LICENSE.md) file for more information.
+
